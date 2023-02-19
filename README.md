@@ -2,7 +2,7 @@
 A simple news app that get the latest news 
 
 created using 
-# ANGULAR 
+ ANGULAR 
 
 API use from 
-# mediastack.com   
+ mediastack.com   
